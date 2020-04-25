@@ -5,7 +5,7 @@ Active Disturbance Rejection Control for LFC with Renewable Integration
 
 ## Cite this Work
 
-Dorado-Rojas, S. A., Cortés-Romero, J., Rivera, S., & Mojica-Nava, E. (2019, June). ADRC for Decentralized Load Frequency Control with Renewable Energy Generation. In 2019 IEEE Milan PowerTech (pp. 1-6). https://ieeexplore.ieee.org/document/8810873
+> Dorado-Rojas, S. A., Cortés-Romero, J., Rivera, S., & Mojica-Nava, E. (2019, June). ADRC for Decentralized Load Frequency Control with Renewable Energy Generation. In 2019 IEEE Milan PowerTech (pp. 1-6). https://ieeexplore.ieee.org/document/8810873
 
 ## Contact
 
